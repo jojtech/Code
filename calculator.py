@@ -1,7 +1,7 @@
 #George Githigi Ngugi - SCT211-0460/2022
 
 username = input("Enter your name: ")
-print(f"Welcome {username}! Feel free to use this calculator.")
+print(f"Welcome {username} Feel free to use this calculator.")
 print("Choose an operation:")
 print("1. Addition")
 print("2. Subtraction")
