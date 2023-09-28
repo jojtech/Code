@@ -8,7 +8,7 @@ print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
 
-choice = input("Enter the operation number (1/2/3/4): ")
+choice = input("Enter the operation you want to carry out (1/2/3/4): ")
 
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
