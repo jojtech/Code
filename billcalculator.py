@@ -1,3 +1,4 @@
+#George Githigi Ngugi - SCT211-0460/2022
 # Get user input
 total_bill = float(input("Enter the total bill amount: $"))
 tip_percentage = int(input("Enter the tip percentage (10, 12, or 15): "))
