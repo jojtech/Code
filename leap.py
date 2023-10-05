@@ -1,3 +1,4 @@
+#George Githigi Ngugi - SCT211-0460/2022
 # Input from user
 year = int(input("Enter a year: "))
 
