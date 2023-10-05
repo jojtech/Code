@@ -1,3 +1,5 @@
+#George Githigi Ngugi - SCT211-0460/2022
+
 import datetime
 username = input("Enter your name: ")
 print(f"Welcome {username}! Feel free to use this age calculator.")
