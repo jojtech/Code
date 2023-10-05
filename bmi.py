@@ -1,3 +1,4 @@
+#George Githigi Ngugi - SCT211-0460/2022
 # Input from the users 
 weight = float(input("Enter your weight in kilograms: "))
 height_cm = float(input("Enter your height in centimeters: "))
