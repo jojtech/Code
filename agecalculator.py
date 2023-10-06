@@ -16,9 +16,9 @@ birth_date = datetime.date(year_of_birth, month_of_birth, day_of_birth)
 age = current_date - birth_date
 
 # Extract years, months, and days from the age difference
-years = age.days // 365
+years = age.days
 remaining_days = age.days % 365
-months = remaining_days // 30
+months = remaining_days
 days = remaining_days % 30
 
 print(f"You are {years} years, {months} months, and {days} days old.")
