@@ -2,7 +2,11 @@
 
 # Get user input
 total_bill = float(input("Enter the total bill amount: $"))
-tip_percentage = int(input("Enter the tip percentage (10, 12, or 15): "))
+print("Select tip percentage:")
+print("1. 10")
+print("2. 12")
+print("3. 15")
+tip_percentage = int(input("Enter the tip percentage: "))
 num_people = int(input("Enter the number of people splitting the bill: "))
 
 # Calculate the tip amount
