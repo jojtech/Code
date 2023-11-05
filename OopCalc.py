@@ -1,4 +1,4 @@
-#George Githigi Ngugi - SCT211-0460/2022
+#Name: George Githigi Ngugi - Adm No: SCT211-0460/2022
 class OopCalc:
     def __init__(self, username):
         self.username = username
